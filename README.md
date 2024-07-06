@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I specialize in research and development in the bl
 ---
 
 ## 🚀 Featured Projects
+- [**yieldEstates**](https://github.com/mahdieh-amiri1/yieldEstates) - yieldEstates is a decentralized platform revolutionizing real estate investment by tokenizing properties, enabling fractional ownership, and facilitating seamless yield generation through rentals. Leveraging the Frax ecosystem, yieldEstates offers a robust marketplace and a comprehensive yield engine, making real estate more accessible, liquid, and efficient. Think about [Pendle](https://www.pendle.finance/) protocol but for real estates and asset-backed tokens!
 - [**DeLP**](https://github.com/mahdieh-amiri1/DeLP) - DeLP (Decentralized Learning Platform) is an Ethereum-based solution revolutionizing online education. It enables course creators and learners with innovative features like quadratic funding for fair support, soulbound NFTs as immutable certificates, and an ERC-20 token (DeLT) for seamless transactions and engagement incentives.
 - [**Narpet**](https://github.com/mahdieh-amiri1/Narpet) - Narpet is a specialized platform for fractionalized NFTs representing real-world assets, specifically carpets. It serves as a marketplace and collaboration platform for artists and carpet creators, enabling fractionalized ownership and trading of real-world carpets.
 
